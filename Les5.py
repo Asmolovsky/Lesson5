@@ -1,5 +1,3 @@
-user_name = 123     # тип int
-print(user_name)
-
-user_name = 'MAN'   # тип str
-print(user_name)
+str=”123” # тип str
+number1=int(str)
+print(type('number1'))
