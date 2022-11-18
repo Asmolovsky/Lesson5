@@ -1,3 +1,3 @@
-str=”123” # тип str
+str='123'
 number1=int(str)
-print(type('number1'))
+print(type(number1))
